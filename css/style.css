@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+header{
+   overflow: hidden;
+border-bottom: 1px solid #b0b0b0;
+
+}
+.header-content{
+    width: 90%;
+    /* background-color: black; */
+    margin-left: 5%;
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+}
+.logo{
+
+width: 20%;
+float: left;
+}
+.logo img{height: 60px;}
+nav{
+    width: 30%;
+    float: right;
+    padding-top: 22px;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+}
+nav ul li{
+
+float: left;
+
+margin-right: 23px;
+
+font-size: 20px;
+}
+.content{
+    width: 60%;
+    margin-left: 20%;
+    overflow: hidden;
+    text-align: center;
+}
+.heading h1{
+
+text-align: center;
+
+color: rgb(0, 0, 0);
+font-size: 50px;
+
+margin-top: 40px;
+}
+.heading p{
+
+color: #646464;
+text-align: center;
+
+margin-top: 24px;
+
+margin-bottom: 10px;
+}
+.heading img{
+    width: 80%;
+    margin-top: 30px;
+}
+.heading h1:first-child{
+    color: rgb(65, 84, 255);
+}
+.main-content{
+    overflow: hidden;
+}
+.left-content{
+
+width: 45%;
+
+float: left;
+}
+.left-content h1{
+
+color: red;
+
+font-size: 40px;
+
+text-align: end;
+}
+.left-content p{
+
+text-align: end;
+}
+.right-content{
+
+width: 45%;
+
+float: right;
+}
+.right-content h1{
+
+text-align: initial;
+
+font-size: 26px;
+}
+.feature{
+
+width: 84%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 112px;
+
+margin-bottom: 80px;
+}
+.feature-one{
+
+width: 28%;
+
+float: left;
+
+text-align: center;
+
+background-color: azure;
+
+padding: 14px;
+}
+.feature-one h3{
+
+font-size: 26px;
+}
+.feature-one p{
+
+text-align: left;
+
+font-size: 20px;
+}
+.feature-one img{
+
+}
+.feature-two{
+
+width: 28%;
+
+float: left;
+
+text-align: center;
+
+margin-left: 5%;
+
+background-color: cornflowerblue;
+
+padding: 10px;
+}
+.feature-two h1{
+    font-size: 20px;
+}
+.feature-two p{
+      
+font-size: 18px;
+}
+.feature-two img{
+
+}
+.feature-three{
+
+width: 28%;
+
+float: right;
+
+background-color: #e5c1c8;
+
+text-align: center;
+
+padding: 15px;
+}
+.feature-three h1{
+    font-size: 20px;
+}
+.feature-three p{
+    font-size: 18px;
+}
+.feature-three img{
+    
+}
+footer{
+    background-color:rgb(79, 130, 224);
+    text-align: center;
+    padding: 40px;
+}
+footer p{
+
+text-align: center;
+
+color: #e3e3e3;
+
+display: inline;
+
+word-spacing: 15px;
+}
+footer h5{
+
+text-align: center;
+
+color: white;
+
+display: inline;
+
+letter-spacing: 5px;
+
+padding-left: 15px;
+
+padding-right: 15px;
+}
+
